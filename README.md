@@ -2,7 +2,7 @@
 ## Features
 
 ![Image Alt](https://github.com/UKnow-69/OGFN-Project-Retrac-Cheat/blob/main/UD.png?raw=true)
-Don’t want to build the src? Go to Don’t want to build the src? Go to [here](https://github.com/UKnow-69/OGFN-Project-Retrac-Cheat/releases/tag/ogfn)
+Don’t want to build the src? Go to [here](https://github.com/UKnow-69/OGFN-Project-Retrac-Cheat/releases/tag/ogfn)
 
 
 
