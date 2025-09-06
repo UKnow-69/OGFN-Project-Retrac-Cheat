@@ -2,7 +2,8 @@
 ## Features
 
 ![Image Alt](https://github.com/UKnow-69/OGFN-Project-Retrac-Cheat/blob/main/UD.png?raw=true)
-Dont want to build the src go to https://github.com/UKnow-69/OGFN-Project-Retrac-Cheat/releases/tag/ogfn
+Dont want to build the src go to [here]([https://example.com](https://github.com/UKnow-69/OGFN-Project-Retrac-Cheat/releases/tag/ogfn))
+
 <details>
   <summary>Aimbot</summary>
 
