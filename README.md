@@ -1,7 +1,7 @@
 
 ## Features
 
-![Image Alt]((https://github.com/UKnow-69/OGFN-Project-Retrac-Cheat/blob/main/UD.png?raw=true)
+![Image Alt](https://github.com/UKnow-69/OGFN-Project-Retrac-Cheat/blob/main/UD.png?raw=true)
 <details>
   <summary>Aimbot</summary>
 
