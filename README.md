@@ -1,4 +1,4 @@
-file:///C:/Users/U_Know_69/Downloads/imagevcxvxcvcxv.png
+
 ## Features
 <details>
   <summary>Aimbot</summary>
