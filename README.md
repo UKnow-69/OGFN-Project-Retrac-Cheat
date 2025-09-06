@@ -1,5 +1,8 @@
 
 ## Features
+
+https://cdn.discordapp.com/attachments/1413917569546719372/1413919873486164088/image.png?ex=68bdaeff&is=68bc5d7f&hm=2e5a84dcf0a81f49b8635c99ad7ca5a3867652bb176becc3a726bd8fbf69c75f&
+
 <details>
   <summary>Aimbot</summary>
 
